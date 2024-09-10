@@ -1,3 +1,4 @@
+#![feature(wasip2)]
 #![warn(missing_docs)]
 #![cfg_attr(feature = "nightly", feature(auto_traits, negative_impls))]
 #![cfg_attr(docsrs, feature(doc_cfg, doc_auto_cfg))]
